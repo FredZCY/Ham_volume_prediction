@@ -21,25 +21,45 @@ The files include:
 
 
 
+Acquisition setup for the elicitation and video recording of the ham sample:
+<img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/data_elicitation.JPG" width="500" height="300"/>
 
-Acquisition setup for the elicitation and video recording of the ham sample.
 
-Example of 16 ham samples in HAMDB-A
 
-Example of 16 ham samples in HAMDB-B
+Example of 16 ham samples in HAMDB-A:
 
-(a) Good Mask R-CNN image and (b) Poor Mask R-CNN image
+<img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/HamDB-A.JPG" width="700" height="500"/>
+
+
+
+Example of 16 ham samples in HAMDB-B:
+
+<img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/HamDB-B.JPG" width="700" height="500"/>
+
+
+
+(a) Good Mask R-CNN image and (b) Poor Mask R-CNN image:
+
+<img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/maskrcnn.JPG" width="500" height="200"/>
+
+
+Volume prediction result on HamDB-A (left) and HamDB-B (right):
+
+<img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/result1.JPG" width="300" height="300"/> <img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/result2.JPG" width="300" height="300"/>
+
+
+
 
 If you use this method in your research, please cite:
 
-@article{liong2020ham,
-title={A Statistical Approach in Enhancing the Volume Prediction of Ellipsoidal Ham},
-author={Y. S. Gan and Lan Wei and Yiming Hanb and Chenyu Zhang and Yen-Chang Huang and Sze-Teng Liong},
-journal={Journal of Food Engineering},
-volume={1},
-pages={1--1},
-year={2020},
-publisher={Elsevier}
+@article{liong2020ham,\
+title={A Statistical Approach in Enhancing the Volume Prediction of Ellipsoidal Ham},\
+author={Y. S. Gan and Lan Wei and Yiming Hanb and Chenyu Zhang and Yen-Chang Huang and Sze-Teng Liong},\
+journal={Journal of Food Engineering},\
+volume={1},\
+pages={1--1},\
+year={2020},\
+publisher={Elsevier}\
 }
 
 If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
