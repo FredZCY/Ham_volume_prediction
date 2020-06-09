@@ -1,3 +1,13 @@
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  This script is to perform the defect detection on ham images
+%
+%  Reference:
+%  xxxxx
+%
+%  Matlab version was written and was tested on Matlab 2020a
+%  If you have any problem, please feel free to contact Sze Teng Liong (stliong@fcu.edu.tw)
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clc;close all;clear
 %% 
 index =1
