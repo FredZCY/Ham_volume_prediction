@@ -57,7 +57,7 @@ If you use this method in your research, please cite:
 
 @article{liong2020ham,\
 title={A Statistical Approach in Enhancing the Volume Prediction of Ellipsoidal Ham},\
-author={Y. S. Gan and Lan Wei and Yiming Hanb and Chenyu Zhang and Yen-Chang Huang and Sze-Teng Liong},\
+author={Y. S. Gan and Lan Wei and Yiming Han and Chenyu Zhang and Yen-Chang Huang and Sze-Teng Liong},\
 journal={Journal of Food Engineering},\
 volume={1},\
 pages={1--1},\
