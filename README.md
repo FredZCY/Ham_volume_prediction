@@ -28,6 +28,8 @@ Acquisition setup for the elicitation and video recording of the ham sample:
 
 Example of 16 ham samples in HAMDB-A:
 
+<img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/GIF.gif" width="400" height="250"/>
+
 <img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/HamDB-A.JPG" width="700" height="500"/>
 
 
@@ -44,6 +46,7 @@ Example of 16 ham samples in HAMDB-B:
 
 
 Volume prediction result on HamDB-A (left) and HamDB-B (right):
+
 
 <img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/result1.JPG" width="300" height="300"/> <img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/result2.JPG" width="300" height="300"/>
 
