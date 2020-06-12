@@ -18,6 +18,7 @@ The files include:
 3) defectDetection_y_axis.m - defect detection based on the y direction
 4) curveFitting_polynomial.m - optimal curve fitting functions based on polynomial order 2
 5) curveFitting_power.m - optimal curve fitting functions based on power function
+6) input videos - Please download from https://drive.google.com/drive/folders/19A-p_KiBM15DNeJzNMiyfXiIixW3za7Q?usp=sharing
 
 
 
